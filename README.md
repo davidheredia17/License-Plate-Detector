@@ -51,7 +51,6 @@ Here is an example of the algorithm successfully isolating and reading a license
 
 ![Detection Process](assets/detected_1248BFX.jpg)
 
-![Detection Process](assets/detected_GE157844.jpg)
 
 *The algorithm flattens the plate and applies binary thresholding before sending it to Tesseract.*
 
